@@ -1,0 +1,24 @@
+{
+    "name": "grunt-svg-resize",
+    "version": "0.0.1",
+    "description": "Grunt task to automatically resize SVG icons",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jaason/grunt-svg-resize.git"
+    },
+    "author": "Jaason",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Jaason/grunt-svg-resize/issues"
+    },
+    "homepage": "https://github.com/Jaason/grunt-svg-resize",
+    "dependencies": {
+        "grunt": "^0.4.5",
+        "grunt-contrib-jshint": "^1.0.0",
+        "grunt-contrib-clean": "^1.0.0",
+        "grunt-mkdir": "^1.0.0"
+    }
+}
